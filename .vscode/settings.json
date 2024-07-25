@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 8090,
+            "driver": "PostgreSQL",
+            "name": "imovies",
+            "username": "postgres",
+            "database": "imovies",
+            "password": "tZDjlboUDPa2ZP5rl7DhjxEVmMY2zpfL"
+        }
+    ]
+}

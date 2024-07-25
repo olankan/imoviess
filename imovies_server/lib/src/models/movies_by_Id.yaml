@@ -1,0 +1,9 @@
+class: MoviesById
+table: movies_by_id
+
+fields:
+  title: String
+  movieId: int
+  userId: int, relation(parent=serverpod_user_info)
+ 
+

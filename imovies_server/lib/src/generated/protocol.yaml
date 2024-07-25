@@ -1,0 +1,7 @@
+example:
+  - hello:
+movieId:
+  - addMovieId:
+  - getAllMovieIds:
+  - updateMovieId:
+  - deleteMovieId:

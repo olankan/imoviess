@@ -1,0 +1,9 @@
+type: server
+
+client_package_path: ../imovies_client
+
+
+
+modules: 
+  serverpod_auth:
+    nickname: auth
