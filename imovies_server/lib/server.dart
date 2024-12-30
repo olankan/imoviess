@@ -42,6 +42,7 @@ void run(List<String> args) async {
       sendPasswordResetEmail: (session, userInfo, validationCode) async {
         await Future.delayed(Duration(milliseconds: 500));
         //send your validation email here
+
         print(validationCode);
         return true;
       },

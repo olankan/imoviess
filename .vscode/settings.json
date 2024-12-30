@@ -5,10 +5,10 @@
             "server": "localhost",
             "port": 8090,
             "driver": "PostgreSQL",
-            "name": "imovies",
+            "password": "tZDjlboUDPa2ZP5rl7DhjxEVmMY2zpfL",
             "username": "postgres",
             "database": "imovies",
-            "password": "tZDjlboUDPa2ZP5rl7DhjxEVmMY2zpfL"
+            "name": "imovies"
         }
     ]
 }
